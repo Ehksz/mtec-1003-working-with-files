@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/working-with-files/static/css/main.07562488.css",
-    "main.js": "/working-with-files/static/js/main.8ca31bd2.js",
-    "static/js/787.f73f5670.chunk.js": "/working-with-files/static/js/787.f73f5670.chunk.js",
-    "index.html": "/working-with-files/index.html",
-    "main.8ca31bd2.js.map": "/working-with-files/static/js/main.8ca31bd2.js.map",
-    "787.f73f5670.chunk.js.map": "/working-with-files/static/js/787.f73f5670.chunk.js.map"
+    "main.css": "/mtec-1003-working-with-files/static/css/main.07562488.css",
+    "main.js": "/mtec-1003-working-with-files/static/js/main.5aada8d3.js",
+    "static/js/787.f73f5670.chunk.js": "/mtec-1003-working-with-files/static/js/787.f73f5670.chunk.js",
+    "index.html": "/mtec-1003-working-with-files/index.html",
+    "main.5aada8d3.js.map": "/mtec-1003-working-with-files/static/js/main.5aada8d3.js.map",
+    "787.f73f5670.chunk.js.map": "/mtec-1003-working-with-files/static/js/787.f73f5670.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07562488.css",
-    "static/js/main.8ca31bd2.js"
+    "static/js/main.5aada8d3.js"
   ]
 }
